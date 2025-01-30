@@ -22,7 +22,7 @@ int main()
 
 		JokePunchLine = rand() % 10 + 1;
 		cout << JokePunchLine << endl;
-		if (JokePunchLine == 12)
+		if (JokePunchLine == 10)
 		{
 			cout << "Orange" << endl;
 			system("PAUSE");
